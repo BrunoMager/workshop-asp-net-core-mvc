@@ -8,4 +8,4 @@ namespace SalesWebMvc.Models
 
         public bool ShowRequestId => !string.IsNullOrEmpty(RequestId);
     }
-}
+} 
